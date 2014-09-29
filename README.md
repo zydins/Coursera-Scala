@@ -1,4 +1,4 @@
-Solutions for Scala exercises in Coursera course
+<b>Solutions for Scala exercises in Coursera course</b>
 
-Main.scala - Week 1 (Recfun)
-FunSets.scala - Week 2
+Week 1 - Main.scala (Recfun)<br>
+Week 2 - FunSets.scala
