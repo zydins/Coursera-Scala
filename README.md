@@ -2,4 +2,5 @@
 
 Week 1 - Main.scala (Recfun)<br>
 Week 2 - FunSets.scala<br>
-Week 2 - TweetSets.scala
+Week 3 - TweetSets.scala
+Week 4 - Huffman.scala
